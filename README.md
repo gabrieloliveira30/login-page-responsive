@@ -1,5 +1,5 @@
 # login-html-css-js
-Acesse o projeto: *** https://gabrieloliveira30.github.io/tela-de-login-page/ ***
+Acesse o projeto: ***  https://gabrieloliveira30.github.io/login-page-responsive/  ***
 
 Login Page — Interface moderna e responsiva
 
